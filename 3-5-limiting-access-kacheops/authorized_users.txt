@@ -1,0 +1,5 @@
+old_mcdonald,farmingIsLife#1,50
+bushel_basket,dozenEggs,100
+gosling_patch,hay_loft,50
+slough_pond,treasure_island#2,100
+cattle_guard,harvest_moon!,75
